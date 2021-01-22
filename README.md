@@ -1,2 +1,0 @@
-# quickguide.tech
-Quick Guide
